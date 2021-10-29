@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE553547272C1051008C8488 /* ChangeColorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE553546272C1051008C8488 /* ChangeColorButton.swift */; };
 		EEF5BF3727282606007700C9 /* TrafficLightSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEF5BF3627282606007700C9 /* TrafficLightSwiftUIApp.swift */; };
 		EEF5BF3927282606007700C9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEF5BF3827282606007700C9 /* ContentView.swift */; };
 		EEF5BF3B27282607007700C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEF5BF3A27282607007700C9 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE553546272C1051008C8488 /* ChangeColorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeColorButton.swift; sourceTree = "<group>"; };
 		EEF5BF3327282606007700C9 /* TrafficLightSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLightSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEF5BF3627282606007700C9 /* TrafficLightSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightSwiftUIApp.swift; sourceTree = "<group>"; };
 		EEF5BF3827282606007700C9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				EEF5BF3627282606007700C9 /* TrafficLightSwiftUIApp.swift */,
 				EEF5BF44272862C0007700C9 /* ColorCircleView.swift */,
+				EE553546272C1051008C8488 /* ChangeColorButton.swift */,
 				EEF5BF3827282606007700C9 /* ContentView.swift */,
 				EEF5BF3A27282607007700C9 /* Assets.xcassets */,
 				EEF5BF3C27282607007700C9 /* Preview Content */,
@@ -143,6 +146,7 @@
 				EEF5BF45272862C0007700C9 /* ColorCircleView.swift in Sources */,
 				EEF5BF3927282606007700C9 /* ContentView.swift in Sources */,
 				EEF5BF3727282606007700C9 /* TrafficLightSwiftUIApp.swift in Sources */,
+				EE553547272C1051008C8488 /* ChangeColorButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
